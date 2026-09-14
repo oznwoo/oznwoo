@@ -1,29 +1,17 @@
-<div align="center">
+### 오진우 · 풀스택 개발자
 
-<img width="1774" height="887" alt="프로필 배너" src="https://github.com/user-attachments/assets/42841ccb-5335-4937-a372-30a01b201057" />
+- 과정을 중시하되, 결과로 증명하려 노력합니다
+- 다양한 관점을 이해하고 존중하는 것을 중요하게 생각합니다
+- AI를 활용해 아이디어를 현실화하는 것을 즐깁니다
 
-</div>
+**Tech Stack**
 
-<br>
-
-## About
-
-**AI가 아닌 인간의 문제를 해결하는 개발자**
-
-Figma를 활용한 UI/UX 기획부터 프론트엔드 구현, 백엔드 API 설계까지 서비스 전 과정을 단독으로 설계·개발해왔습니다. 사용자를 직접 관찰하고 공감하는 것에서 진짜 문제를 찾고, Claude Code 등 AI 도구를 적극 활용해 구현 속도와 완성도를 함께 끌어올립니다.
-
-- 한양대학교 ERICA 컴퓨터공학과 졸업 (학점 4.22/4.5)
-- (주)Mideal(B2B 핀테크 SaaS)에서 백엔드/ML 인턴 경험 (2026.04 ~ 06)
-- GTQ 1급 (그래픽 기술 자격증)
-- 풀스택/프론트/백엔드 개발자로 취업을 준비 중이며, 장기적으로 프로덕트 기획·UX로 확장을 목표로 하고 있습니다
-
-
-<div align="center">
-<sub>정보처리기사 실기 준비 중 · TOEIC Speaking 예정 · Uijeongbu, Korea</sub>
-</div>
-
-<br>
-
-## Tech Stack
-<img width="1717" height="916" alt="기술 스택" src="https://github.com/user-attachments/assets/0b4e753a-5497-46fc-9ba5-905cc78074d9" />
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
