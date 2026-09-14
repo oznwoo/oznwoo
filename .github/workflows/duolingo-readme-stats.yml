@@ -12,8 +12,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: centrumek/duolingo-readme-stats@v1.0.0
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
+          python-version: '3.12'
+      - name: Fetch Duolingo stats and update README
+        env:
           DUOLINGO_USER_ID: ${{ secrets.DUOLINGO_USER_ID }}
-          ADVANCED_TOKEN_JWT: ${{ secrets.DUOLINGO_JWT }}
+          DUOLINGO_JWT: ${{ secrets.DUOLINGO_JWT }}
+        run: python3 scripts/update_duolingo_stats.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "💬 Updated README with Duolingo stats"
+          commit_user_name: duolingo-stats-bot
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
