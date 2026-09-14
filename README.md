@@ -19,4 +19,12 @@
 ### Duolingo
 
 <!--START_SECTION:duolingoStats-->
+
+🔥 **71-day streak** · ⭐ **9,482 XP**
+
+| Language | XP |
+|---|---|
+| 🇩🇪 German | 2,750 |
+| 🇬🇧 English | 5,588 |
+
 <!--END_SECTION:duolingoStats-->
