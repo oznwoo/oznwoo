@@ -36,7 +36,7 @@
 
 | Language | XP |
 |---|---|
-| 🇩🇪 German | 4,060 |
-| 🇬🇧 English | 7,897 |
+| 🇩🇪 German | 4,082 |
+| 🇬🇧 English | 8,074 |
 
 <!--END_SECTION:duolingoStats-->
