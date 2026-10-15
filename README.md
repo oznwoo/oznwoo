@@ -32,11 +32,11 @@
 
 <!--START_SECTION:duolingoStats-->
 
-🔥 **100-day streak** · ⭐ **15,716 XP**
+🔥 **101-day streak** · ⭐ **15,876 XP**
 
 | Language | XP |
 |---|---|
-| 🇩🇪 German | 4,741 |
-| 🇬🇧 English | 10,030 |
+| 🇩🇪 German | 4,782 |
+| 🇬🇧 English | 10,149 |
 
 <!--END_SECTION:duolingoStats-->
